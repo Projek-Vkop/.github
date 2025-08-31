@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Home
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ded72fde-58b4-44cb-a9b3-627413cdf006" />
+
 <!--
 
 **Here are some ideas to get you started:**
