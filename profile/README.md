@@ -3,7 +3,17 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Projek-Vkop/Home">
-          <img src="https://img.shields.io/badge/Branch-Build-yellow?style=for-the-badge" alt="Home"/>
+          <img src="https://img.shields.io/badge/Branch-Home-green?style=for-the-badge" alt="Home"/>
+        </a>
+      </td>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Projek-Vkop/Home">
+          <img src="https://img.shields.io/badge/Branch-Home-green?style=for-the-badge" alt="Home"/>
         </a>
       </td>
       <td align="center">
