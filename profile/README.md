@@ -18,8 +18,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Projek-Vkop/Bot-Backup">
-          <img src="https://img.shields.io/badge/Bot-Backup-yellow?style=for-the-badge" alt="Bot-Backup"/>
+        <a href="https://github.com/Projek-Vkop/Bot-Vkop-Vip">
+          <img src="https://img.shields.io/badge/Bot-Vip-yellow?style=for-the-badge" alt="Bot-Vip"/>
         </a>
       </td>
       <td align="center">
